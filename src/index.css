@@ -682,7 +682,9 @@ a.accent-button {
 a.muted-button {
   background: transparent;
   border: 1px solid #cdcdcd;
-  color: #4e4e4e; }
+  color: #4e4e4e;
+  margin-right: 0.5rem;
+}
   .muted-button:hover, .muted-button:focus, .muted-button:active,
   a.muted-button:hover,
   a.muted-button:focus,
@@ -800,7 +802,8 @@ tfoot th {
   border-top: 2px solid #dedede; }
 
 td {
-  border-bottom: 1px solid #dedede; }
+  border-bottom: 1px solid #dedede;
+}
 
 th,
 td {
