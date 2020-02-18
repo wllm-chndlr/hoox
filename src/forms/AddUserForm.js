@@ -6,7 +6,7 @@ const AddUserForm = props => {
         name: '',
         username: '',
     }
-    debugger
+
     const [user, setUser] = useState(initialFormState)
 
     const handleInputChange = event => {
