@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hoox/static/css/main.2a4d028d.chunk.css",
-    "main.js": "/hoox/static/js/main.5928a0b4.chunk.js",
-    "main.js.map": "/hoox/static/js/main.5928a0b4.chunk.js.map",
+    "main.js": "/hoox/static/js/main.c693e5b1.chunk.js",
+    "main.js.map": "/hoox/static/js/main.c693e5b1.chunk.js.map",
     "runtime-main.js": "/hoox/static/js/runtime-main.2b208d33.js",
     "runtime-main.js.map": "/hoox/static/js/runtime-main.2b208d33.js.map",
     "static/js/2.a3a0d95c.chunk.js": "/hoox/static/js/2.a3a0d95c.chunk.js",
     "static/js/2.a3a0d95c.chunk.js.map": "/hoox/static/js/2.a3a0d95c.chunk.js.map",
     "index.html": "/hoox/index.html",
-    "precache-manifest.d7d3859f7415d6e7d73a6f9f4fbb7b33.js": "/hoox/precache-manifest.d7d3859f7415d6e7d73a6f9f4fbb7b33.js",
+    "precache-manifest.544804b25cc5a3f8dc15b5f356425245.js": "/hoox/precache-manifest.544804b25cc5a3f8dc15b5f356425245.js",
     "service-worker.js": "/hoox/service-worker.js",
     "static/css/main.2a4d028d.chunk.css.map": "/hoox/static/css/main.2a4d028d.chunk.css.map",
     "static/js/2.a3a0d95c.chunk.js.LICENSE.txt": "/hoox/static/js/2.a3a0d95c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2b208d33.js",
     "static/js/2.a3a0d95c.chunk.js",
     "static/css/main.2a4d028d.chunk.css",
-    "static/js/main.5928a0b4.chunk.js"
+    "static/js/main.c693e5b1.chunk.js"
   ]
 }
