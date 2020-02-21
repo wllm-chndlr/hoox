@@ -5,9 +5,10 @@ import EditUserForm from "./forms/EditUserForm";
 
 const App = () => {
     const usersData = [
-        { id: 1, name: "Tania", username: "floppydiskette" },
-        { id: 2, name: "Craig", username: "siliconeidolon" },
-        { id: 3, name: "Ben", username: "benisphere" }
+        { id: 1, name: "Liza", username: "floppydiskette" },
+        { id: 2, name: "Craig", username: "idol5pace" },
+        { id: 3, name: "Barkley", username: "chuckwagon39" },
+        { id: 4, name: "Bonita", username: "ereS.miO.nuncA" }
     ];
 
     const initialFormState = {
@@ -49,7 +50,8 @@ const App = () => {
 
     return (
         <div className="container">
-            <h1>CRUD App with Hooks</h1>
+            <h1>Hoox User Management</h1>
+            <h4>CRUD app built with React and Hooks</h4>
             <div className="flex-row">
                 <div className="flex-large">
                     {editing ? (
