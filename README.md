@@ -5,3 +5,5 @@
 #### Built with React and Hooks. Check it out [here](https://wllm-chndlr.github.io/hoox/).
 
 ![screenshot](public/ss.png)
+
+#### Thanks to taniarascia
